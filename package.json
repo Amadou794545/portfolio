@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://fernandmesange.github.io/portfolio-amadou",
+  "homepage": "https://Amadou794545.github.io/portfolio-amadou",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

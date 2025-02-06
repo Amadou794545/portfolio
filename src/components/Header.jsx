@@ -23,7 +23,7 @@ function Header() {
           <a href="#projects">Projets</a>
           </Button>
           <Button variant="ghost" className="hover:text-blue-600 transition-colors duration-300">
-            <a href="/CvAmadou.pdf">CV</a>
+            <a href="portfolio/CvAmadou.pdf">CV</a>
           </Button>
           <Button variant="outline" className="hover:bg-blue-600 hover:text-white transition-colors duration-300"><a href="#contact">Contactez moi 📞</a></Button>
         </nav>
