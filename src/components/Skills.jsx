@@ -14,7 +14,7 @@ const skills = [
   { name: "sqlite", type: "hardskills" },
   { name: "Analyse de données", type: "hardskills" },
   { name: "jupyter notebook", type: "hardskills" },
-  { name: "Comunication", type: "softskills" },
+  { name: "Communication", type: "softskills" },
   { name: "travail en équipe", type: "softskills" },
   { name: "Gestion de projet", type: "softskills" },
   { name: "Autodidacte", type: "softskills" },
