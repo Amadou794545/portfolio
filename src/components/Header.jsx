@@ -17,15 +17,15 @@ function Header() {
         </h1>
         <nav className="hidden md:flex ml-auto ">
           <Button variant="ghost" className="mr-2 hover:text-blue-600 transition-colors duration-300">
-            <a href="/">Accueil</a>
+            <a href="/portfolio">Accueil</a>
           </Button>
           <Button variant="ghost" className="mr-2 hover:text-blue-600 transition-colors duration-300">
-          <a href="#projects">Projets</a>
+          <a href="/portfolio#projects">Projets</a>
           </Button>
           <Button variant="ghost" className="hover:text-blue-600 transition-colors duration-300">
             <a href="CvAmadou.pdf">CV</a>
           </Button>
-          <Button variant="outline" className="hover:bg-blue-600 hover:text-white transition-colors duration-300"><a href="#contact">Contactez moi 📞</a></Button>
+          <Button variant="outline" className="hover:bg-blue-600 hover:text-white transition-colors duration-300"><a href="/portfolio#contact">Contactez moi 📞</a></Button>
         </nav>
 
 
@@ -41,15 +41,15 @@ function Header() {
     <nav className="mt-5">
         <ul className="space-y-4 flex flex-col font-medium">
         <li className="mr-2 hover:text-blue-600 transition-colors duration-300">
-        <a href="/">Accueil</a>
+        <a href="/portfolio">Accueil</a>
           </li>
           <li className="mr-2 hover:text-blue-600 transition-colors duration-300">
-          <a href="#projects">Projets</a>
+          <a href="/portfolio#projects">Projets</a>
           </li>
           <li className="hover:text-blue-600 transition-colors duration-300">
             <a href="CvAmadou.pdf">CV</a>
           </li>
-          <Button className=" bg-blue-600 hover:bg-blue-600 hover:text-white transition-colors duration-300"><a href="#contact">Contactez moi 📞</a></Button>
+          <Button className=" bg-blue-600 hover:bg-blue-600 hover:text-white transition-colors duration-300"><a href="/portfolio#contact">Contactez moi 📞</a></Button>
         </ul>
           
         </nav>
