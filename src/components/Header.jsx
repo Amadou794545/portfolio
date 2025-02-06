@@ -16,16 +16,24 @@ function Header() {
           AMADOU MBODJ
         </h1>
         <nav className="hidden md:flex ml-auto ">
+        <a href="/portfolio">
           <Button variant="ghost" className="mr-2 hover:text-blue-600 transition-colors duration-300">
-            <a href="/portfolio">Accueil</a>
+            Accueil
           </Button>
+          </a>
+          <a href="#projects">
           <Button variant="ghost" className="mr-2 hover:text-blue-600 transition-colors duration-300">
-          <a href="/portfolio#projects">Projets</a>
+          Projets
           </Button>
+          </a>
+          <a href="CvAmadou.pdf">
           <Button variant="ghost" className="hover:text-blue-600 transition-colors duration-300">
-            <a href="CvAmadou.pdf">CV</a>
+           CV
           </Button>
-          <Button variant="outline" className="hover:bg-blue-600 hover:text-white transition-colors duration-300"><a href="/portfolio#contact">Contactez moi 📞</a></Button>
+          </a>
+          <a href="#contact">
+          <Button variant="outline" className="hover:bg-blue-600 hover:text-white transition-colors duration-300">Contactez moi 📞</Button>
+          </a>
         </nav>
 
 
@@ -44,12 +52,12 @@ function Header() {
         <a href="/portfolio">Accueil</a>
           </li>
           <li className="mr-2 hover:text-blue-600 transition-colors duration-300">
-          <a href="/portfolio#projects">Projets</a>
+          <a href="#projects">Projets</a>
           </li>
           <li className="hover:text-blue-600 transition-colors duration-300">
             <a href="CvAmadou.pdf">CV</a>
           </li>
-          <Button className=" bg-blue-600 hover:bg-blue-600 hover:text-white transition-colors duration-300"><a href="/portfolio#contact">Contactez moi 📞</a></Button>
+          <Button className=" bg-blue-600 hover:bg-blue-600 hover:text-white transition-colors duration-300"><a href="#contact">Contactez moi 📞</a></Button>
         </ul>
           
         </nav>
