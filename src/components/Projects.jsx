@@ -5,6 +5,7 @@ import project3image from "@/assets/img/Prediction_de_risque_de_credit_bancaire.
 import project4image from "@/assets/img/prediction_du_couts_de_frais_medicaux.jpg"
 import project5image from "@/assets/img/prediction_du_flux_du_traffic.jpg"
 import project6image from "@/assets/img/classico.jpg"
+import project7image from "@/assets/img/Segmentation-des-donnees-bancaires.jpg"
 
 const projects = [
   {
@@ -48,6 +49,14 @@ const projects = [
       "Le projet 'Classico' a pour objectif de prédire les résultats de matchs de football, en utilisant des modèles d'apprentissage automatique et des données actuelles pour estimer les scores ou la probabilité de victoire des équipes.",
     image: project6image,
     url:'https://github.com/Amadou794545/Classico'
+  },
+  {
+    title: "Segmentation des Données Bancaires",
+    description:
+      "Ce projet vise à segmenter des clients bancaires en différents groupes à l'aide du clustering. L'objectif est d'identifier des profils clients distincts afin d'optimiser les stratégies marketing et d'améliorer la gestion de la relation client.",
+    image: project7image,
+    url:'https://github.com/Amadou794545/Segmentation-des-donnees-bancaires'
+
   }
 ]
 
