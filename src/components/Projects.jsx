@@ -6,6 +6,7 @@ import project4image from "@/assets/img/prediction_du_couts_de_frais_medicaux.jp
 import project5image from "@/assets/img/prediction_du_flux_du_traffic.jpg"
 import project6image from "@/assets/img/classico.jpg"
 import project7image from "@/assets/img/Segmentation-des-donnees-bancaires.jpg"
+import project8image from "@/assets/img/Segmentation-des-clients-d-un-site-de-e-commerce.png"
 
 const projects = [
   {
@@ -57,6 +58,13 @@ const projects = [
     image: project7image,
     url:'https://github.com/Amadou794545/Segmentation-des-donnees-bancaires'
 
+  },
+  {
+    title: "Segmentation des clients d'un site de e-commerce",
+    description:
+      "Ce projet se concentre sur la segmentation des clients d'un site de e-commerce à partir de données d'achats. L'objectif est de diviser les clients en groupes homogènes pour mieux comprendre leurs comportements et optimiser les stratégies marketing.",
+    image: project8image,
+    url:'https://github.com/Amadou794545/Segmentation-des-clients-d-un-site-de-e-commerce'
   }
 ]
 
