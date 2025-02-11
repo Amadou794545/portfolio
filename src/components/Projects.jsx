@@ -11,26 +11,26 @@ const projects = [
   {
     title: "Détection de fraude de paiement en ligne",
     description:
-      "Le projet consiste à détecter les fraudes de paiements en ligne à l'aide de l'apprentissage automatique. Il inclut des étapes de prétraitement des données, d'ingénierie des caractéristiques et de sélection de modèles pour classifier les transactions comme frauduleuses ou légitimes. Ce projet vise à améliorer la sécurité des paiements en ligne en automatisant la détection de fraudes.",
+      "Le projet consiste à détecter les fraudes de paiements en ligne à l'aide de l'apprentissage automatique. Il inclut des étapes de prétraitement des données, d'ingénierie des caractéristiques et de sélection de modèles pour classifier les transactions comme frauduleuses ou légitimes.Il vise à améliorer la sécurité des paiements en ligne en automatisant la détection de fraudes.",
     image: project1image,
     url:'https://github.com/Amadou794545/Detection-de-fraude-de-paiement-en-ligne'
   },
   {
     title: "Prévision de survie des arbres",
     description:
-      "Ce projet se concentrer sur la modélisation et la prédiction de la survie des arbres en fonction de diverses variables environnementales et biologiques. Il utilise des techniques d'apprentissage automatique pour analyser les données et prédire la probabilité de survie des arbres.",
+      "Ce projet se concentre sur la modélisation et la prédiction de la survie des arbres en fonction de diverses variables environnementales et biologiques. Il utilise des techniques d'apprentissage automatique pour analyser les données et prédire la probabilité de survie des arbres.",
     image: project2image,
     url:'https://github.com/Amadou794545/Prevision-de-survie-des-arbres'
   },
   {
-    title: "Prédiction de risque de credit bancaire",
+    title: "Prédiction de risque de crédit bancaire",
     description:
       "L'objectif est de prédire le risque de défaut de paiement sur la base de données financières et personnelles, ce qui aide les institutions bancaires à prendre des décisions éclairées sur l'octroi de crédits. ",
     image: project3image,
     url:'https://github.com/Amadou794545/Prediction_de_risque_de_credit_bancaire'
   },
   {
-    title: "Prédiction du couts de frais medicaux",
+    title: "Prédiction du coûts de frais medicaux",
     description:
       "L’objectif principal de ce projet est de développer un modèle prédictif capable d’estimer avec précision les coûts médicaux des individus en fonction de leurs caractéristiques. En analysant l’ensemble de données et en identifiant des tendances et des relations, le modèle fournira des informations sur les facteurs influençant les dépenses médicales.",
     image: project4image,
