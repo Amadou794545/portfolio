@@ -1,6 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import project1image from "@/assets/img/Detection-de-fraude-de-paiement-en-ligne.jpeg"
-import project2image from "@/assets/img/Prevision-de-survie-des-arbres.jpg"
 import project3image from "@/assets/img/Prediction_de_risque_de_credit_bancaire.jpg"
 import project4image from "@/assets/img/prediction_du_couts_de_frais_medicaux.jpg"
 import project5image from "@/assets/img/prediction_du_flux_du_traffic.jpg"
@@ -17,18 +16,11 @@ const projects = [
     url:'https://github.com/Amadou794545/Detection-de-fraude-de-paiement-en-ligne'
   },
   {
-    title: "Prévision de survie des arbres",
-    description:
-      "Ce projet se concentre sur la modélisation et la prédiction de la survie des arbres en fonction de diverses variables environnementales et biologiques. Il utilise des techniques d'apprentissage automatique pour analyser les données et prédire la probabilité de survie des arbres.",
-    image: project2image,
-    url:'https://github.com/Amadou794545/Prevision-de-survie-des-arbres'
-  },
-  {
     title: "Prédiction de risque de crédit bancaire",
     description:
       "L'objectif est de prédire le risque de défaut de paiement sur la base de données financières et personnelles, ce qui aide les institutions bancaires à prendre des décisions éclairées sur l'octroi de crédits. ",
     image: project3image,
-    url:'https://github.com/Amadou794545/Prediction_de_risque_de_credit_bancaire'
+    url:'https://github.com/Amadou794545/Risque_de_credit'
   },
   {
     title: "Prédiction du coûts de frais medicaux",
