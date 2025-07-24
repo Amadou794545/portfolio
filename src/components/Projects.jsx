@@ -6,6 +6,7 @@ import project5image from "@/assets/img/prediction_du_flux_du_traffic.jpg"
 import project6image from "@/assets/img/classico.jpg"
 import project7image from "@/assets/img/Segmentation-des-donnees-bancaires.jpg"
 import project8image from "@/assets/img/Segmentation-des-clients-d-un-site-de-e-commerce.png"
+import project9image from "@\assets\img\Analyse_de_donnée_RH.jpg"
 
 const projects = [
   {
@@ -57,6 +58,12 @@ const projects = [
       "Ce projet se concentre sur la segmentation des clients d'un site de e-commerce à partir de données d'achats. L'objectif est de diviser les clients en groupes homogènes pour mieux comprendre leurs comportements et optimiser les stratégies marketing.",
     image: project8image,
     url:'https://github.com/Amadou794545/Segmentation-des-clients-d-un-site-de-e-commerce'
+  },
+  {
+    title: "Analyse de donnée Ressource Humaine",
+    description: "Ce projet vise à analyser les données RH de 1 470 employés pour comprendre les dynamiques liées aux salaires, à la satisfaction, aux performances et aux caractéristiques démographiques. L'objectif est de fournir aux équipes RH une vision globale et interactive pour améliorer la prise de décision (rétention, équité, motivation).",
+    image: project9image,
+    url:'https://github.com/Amadou794545/Projet_Analyse_Ressource_Humaine'
   }
 ]
 
