@@ -55,7 +55,7 @@ function Header() {
           <a href="#projects">Projets</a>
           </li>
           <li className="hover:text-blue-600 transition-colors duration-300">
-            <a href="CvAmadou.pdf">CV</a>
+            <a href="">CV</a>
           </li>
           <Button className=" bg-blue-600 hover:bg-blue-600 hover:text-white transition-colors duration-300"><a href="#contact">Contactez moi 📞</a></Button>
         </ul>

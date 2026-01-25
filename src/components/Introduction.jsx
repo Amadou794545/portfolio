@@ -14,7 +14,7 @@ function Introduction() {
           <h2 className="text-3xl font-bold mb-2 text-blue-600">AMADOU MBODJ</h2>
           <h3 className="text-xl mb-4 text-blue-600">Etudiant en Data/IA</h3>
           <p className="text-gray-600 mb-6 max-w-lg">
-          Je suis passionné par la science des données, je recherche un stage de trois à six mois pour mettre à profit mes compétences en Python, machine learning et analyse de données, tout en contribuant à des projets innovants alignés avec les besoins de votre entreprise. De plus, je suis également à la recherche d'une alternance pour la rentrée de septembre 2025.
+          Je suis passionné par la science des données, je recherche un stage de trois à six mois pour mettre à profit mes compétences en Python, machine learning et analyse de données, tout en contribuant à des projets innovants alignés avec les besoins de votre entreprise. De plus, je suis également à la recherche d'une alternance pour la rentrée de septembre 2026.
           </p>
           <div className="flex space-x-4">
             <a
