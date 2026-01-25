@@ -31,20 +31,6 @@ const projects = [
     url:'https://github.com/Amadou794545/prediction_du_couts_de_frais_medicaux'
   },
   {
-    title: "Prédiction du flux du traffic",
-    description:
-      "Ce projet vise à prédire le flux de trafic en se basant sur des données historiques, notamment le nombre de véhicules (voitures, vélos, bus, camions), l'heure et le jour de la semaine. En analysant ces données, nous cherchons à identifier les tendances dans le flux de trafic, à prédire les situations de trafic et à fournir des informations exploitables pour gérer la congestion et améliorer la mobilité urbaine. Le modèle aide également à optimiser les stratégies de contrôle du trafic et contribue aux objectifs de durabilité en réduisant les émissions et la consommation de carburant grâce à une meilleure gestion du trafic.",
-    image: project5image,
-    url:'https://github.com/Amadou794545/prediction_du_flux_du_traffic'
-  },
-  {
-    title: "Classico (en cours)",
-    description:
-      "Le projet 'Classico' a pour objectif de prédire les résultats de matchs de football, en utilisant des modèles d'apprentissage automatique et des données actuelles pour estimer les scores ou la probabilité de victoire des équipes.",
-    image: project6image,
-    url:'https://github.com/Amadou794545/Classico'
-  },
-  {
     title: "Segmentation des Données Bancaires",
     description:
       "Ce projet vise à segmenter des clients bancaires en différents groupes à l'aide du clustering. L'objectif est d'identifier des profils clients distincts afin d'optimiser les stratégies marketing et d'améliorer la gestion de la relation client.",
