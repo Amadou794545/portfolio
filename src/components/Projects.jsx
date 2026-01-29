@@ -2,11 +2,10 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import project1image from "@/assets/img/Detection-de-fraude-de-paiement-en-ligne.jpeg"
 import project3image from "@/assets/img/Prediction_de_risque_de_credit_bancaire.jpg"
 import project4image from "@/assets/img/prediction_du_couts_de_frais_medicaux.jpg"
-import project5image from "@/assets/img/prediction_du_flux_du_traffic.jpg"
-import project6image from "@/assets/img/classico.jpg"
 import project7image from "@/assets/img/Segmentation-des-donnees-bancaires.jpg"
 import project8image from "@/assets/img/Segmentation-des-clients-d-un-site-de-e-commerce.png"
 import project9image from "@/assets/img/Analyse_de_donnée_RH.jpg"
+import project10image from "src\assets\img\projet_analyse_de_vente.png"
 
 const projects = [
   {
@@ -50,6 +49,12 @@ const projects = [
     description: "Ce projet vise à analyser les données RH de 1 470 employés pour comprendre les dynamiques liées aux salaires, à la satisfaction, aux performances et aux caractéristiques démographiques. L'objectif est de fournir aux équipes RH une vision globale et interactive pour améliorer la prise de décision (rétention, équité, motivation).",
     image: project9image,
     url:'https://github.com/Amadou794545/Projet_Analyse_Ressource_Humaine'
+  },
+  {
+    title: "Analyse de vente",
+    description: "L’objectif principal de ce projet est d’anticiper les ventes mensuelles afin d’optimiser la gestion des stocks et améliorer la planification de la chaîne logistique grâce à un modèle de prévision basé sur les séries temporelles.",
+    image: project10image,
+    url:'https://github.com/Amadou794545/Prevision_vente'
   }
 ]
 
