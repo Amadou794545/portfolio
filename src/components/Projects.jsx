@@ -5,7 +5,7 @@ import project4image from "@/assets/img/prediction_du_couts_de_frais_medicaux.jp
 import project7image from "@/assets/img/Segmentation-des-donnees-bancaires.jpg"
 import project8image from "@/assets/img/Segmentation-des-clients-d-un-site-de-e-commerce.png"
 import project9image from "@/assets/img/Analyse_de_donnée_RH.jpg"
-import project10image from "src\assets\img\projet_analyse_de_vente.png"
+import project10image from "@/assets/img/projet_analyse_de_vente.png"
 
 const projects = [
   {
