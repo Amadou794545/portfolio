@@ -6,6 +6,8 @@ import project7image from "@/assets/img/Segmentation-des-donnees-bancaires.jpg"
 import project8image from "@/assets/img/Segmentation-des-clients-d-un-site-de-e-commerce.png"
 import project9image from "@/assets/img/Analyse_de_donnée_RH.jpg"
 import project10image from "@/assets/img/projet_analyse_de_vente.png"
+import project11image from "@/assets/img/projet_data_engineer.png"
+import project12image from "@/assets/img/simulation_emploi_british_airways.png"
 
 const projects = [
   {
@@ -55,6 +57,19 @@ const projects = [
     description: "L’objectif principal de ce projet est d’anticiper les ventes mensuelles afin d’optimiser la gestion des stocks et améliorer la planification de la chaîne logistique grâce à un modèle de prévision basé sur les séries temporelles.",
     image: project10image,
     url:'https://github.com/Amadou794545/Prevision_vente'
+  }
+  ,
+  {
+    title : "Projet Data Engineering & Analyse de données",
+    description: "L’objectif principal de ce projet est d’analyser les performances des produits à partir des avis clients afin de générer des indicateurs métiers et améliorer la prise de décision, en s’appuyant sur une architecture data complète (ETL, data warehouse et dashboards).",
+    image : project11image,
+    url:""
+  },
+  {
+    title : "Simulation d'emploi en science des donnees chez British Airways",
+    description: "Développement d'un modèle prédictif permettant d'anticiper les réservations de vols des clients. L'objectif est d'optimiser la gestion des ressources et d'améliorer l'expérience client en prévoyant les tendances de réservation à partir de données historiques et de facteurs externes.",
+    image : project12image,
+    url:"https://github.com/Amadou794545/Simulation-d-emploi-en-science-des-donnees-chez-British-Airways-sur-Forage"
   }
 ]
 
