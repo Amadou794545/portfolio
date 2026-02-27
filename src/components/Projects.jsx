@@ -8,6 +8,7 @@ import project9image from "@/assets/img/Analyse_de_donnée_RH.jpg"
 import project10image from "@/assets/img/projet_analyse_de_vente.png"
 import project11image from "@/assets/img/projet_data_engineer.png"
 import project12image from "@/assets/img/simulation_emploi_british_airways.png"
+import project13image from "@/assets/img/mini_google_maps.png"
 
 const projects = [
   {
@@ -23,6 +24,13 @@ const projects = [
       "L'objectif est de prédire le risque de défaut de paiement sur la base de données financières et personnelles, ce qui aide les institutions bancaires à prendre des décisions éclairées sur l'octroi de crédits. ",
     image: project3image,
     url:'https://github.com/Amadou794545/Risque_de_credit'
+  },
+  {
+    title: "Mini google Maps",
+    description:
+      "Ce projet a pour objectif de comprendre et reproduire le fonctionnement de Google Maps de A à Z, en combinant cartographie, algorithmique des graphes, machine learning et développement web. Il repose sur les données réelles d'OpenStreetMap et calcule des itinéraires optimaux sur le réseau routier de Toulouse, en estimant le temps de trajet grâce à un modèle d IA selon l heure de la journée.",
+    image: project13image,
+    url:'https://github.com/Amadou794545/Mini_Google_Maps'
   },
   {
     title: "Prédiction du coûts de frais medicaux",
