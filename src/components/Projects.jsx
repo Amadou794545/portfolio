@@ -8,7 +8,7 @@ import project9image from "@/assets/img/Analyse_de_donnée_RH.jpg"
 import project10image from "@/assets/img/projet_analyse_de_vente.png"
 import project11image from "@/assets/img/projet_data_engineer.png"
 import project12image from "@/assets/img/simulation_emploi_british_airways.png"
-import project13image from "@/assets/img/mini_google_maps.png"
+import project13image from "@/assets/img/Mini_google_maps.png"
 
 const projects = [
   {
